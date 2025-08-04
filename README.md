@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mbarek Lamin</h1>
-<h3 align="center">🎓 Data & Software Engineering Enthusiast | 💡 AI & LLMs Learner</h3>
+<h3 align="center">🎓 Data & Software Engineering Enthusiast | 💡 AI & LLMs </h3>
 
 <p align="center">
   <a href="https://github.com/lamin-mbarek">
@@ -11,7 +11,7 @@
 
 ## 🌱 About Me
 
-- 🧠 I’m currently learning **Generative AI & Large Language Models**
+- 🧠 I’m currently learning **Generative AI & LLMs**
 - 📫 Reach me at: **mbareklamin42@gmail.com**
 - 🔍 I’m interested in **AI, Data Engineering, Backend Systems**, and **Cloud Platforms**
 
