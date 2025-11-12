@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mbarek Lamin</h1>
-<h3 align="center">🎓 Data & Software Engineering Enthusiast | 💡 AI & LLMs </h3>
+<h3 align="center">🎓 Data & Software Engineering | 💡 AI & LLMs </h3>
 
-<p align="center">
-  <a href="https://github.com/lamin-mbarek">
-    <img src="https://github-profile-trophy.vercel.app/?username=lamin-mbarek&theme=algolia&margin-w=15&margin-h=15" alt="lamin-mbarek trophies"/>
-  </a>
-</p>
+
 
 ---
 
