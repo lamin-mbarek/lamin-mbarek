@@ -22,7 +22,7 @@
   <a href="https://stackoverflow.com/users/28699215" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://www.leetcode.com/mbarek-lamin" target="_blank">
+  <a href="https://leetcode.com/u/us6DPYxkYd/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow" alt="LeetCode" />
   </a>
   <a href="https://discord.gg/1208114706380750892" target="_blank">
