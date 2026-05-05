@@ -9,7 +9,7 @@
 
 -  I’m currently learning **Data Engineering & Analytics**
 -  Reach me at: **mbareklamin42@gmail.com**
--  I’m interested in **AI, Data Engineering, Data Analytics, Backend Systems, Ai generative **, and **Cloud Platforms**
+-  I’m interested in **AI, Data Engineering, Data Analytics, Backend Systems, Ai generative**, and **Cloud Platforms**
 
 ---
 
