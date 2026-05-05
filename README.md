@@ -5,11 +5,11 @@
 
 ---
 
-## 🌱 About Me
+## About Me
 
-- 🧠 I’m currently learning **Generative AI & LLMs**
-- 📫 Reach me at: **mbareklamin42@gmail.com**
-- 🔍 I’m interested in **AI, Data Engineering, Backend Systems**, and **Cloud Platforms**
+-  I’m currently learning **Data Engineering & Analytics**
+-  Reach me at: **mbareklamin42@gmail.com**
+-  I’m interested in **AI, Data Engineering, Data Analytics, Backend Systems, Ai generative **, and **Cloud Platforms**
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 > **Languages, Frameworks, Tools, and Technologies I work with:**
 
@@ -81,26 +81,13 @@
   <img src="https://img.shields.io/badge/Seaborn-7199C6?logo=seaborn&logoColor=white" />
 </p>
 
----
 
-## 📊 GitHub Stats
+##  Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lamin-mbarek&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamin-mbarek&theme=default" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamin-mbarek&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+-  Active contributor to AI & Data Science projects  
+-  Participated in open-source collaborations  
+   Solving problems on LeetCode and Stack Overflow regularly
 
 ---
 
-## 🏆 Achievements
-
-- 🏅 Active contributor to AI & Data Science projects  
-- 🛠 Participated in open-source collaborations  
-- 🧑‍💻 Solving problems on LeetCode and Stack Overflow regularly
-
----
-
-> ⚡ *Always building, always learning. Let's connect and grow together!*
+>  *Always building, always learning. Let's connect and grow together!*
