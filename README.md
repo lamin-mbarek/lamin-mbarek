@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mbarek Lamin</h1>
-<h3 align="center">🎓 Data & Software Engineering | 💡 AI & LLMs </h3>
+<h1 align="center">I'm Mbarek Lamin</h1>
+<h3 align="center">🎓 Data & Software Engineering | AI & LLMs </h3>
 
 
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/mbarek-lamin" target="_blank">
